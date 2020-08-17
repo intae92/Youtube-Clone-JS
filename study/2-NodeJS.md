@@ -5,6 +5,8 @@ nodeJS는 브라우저와는 별도로 JavaScript를 가지고 서버등 개발�
 
 1. nodeJS란?
 
+Node (또는 더 공식적으로는 Node.js) 는 오픈소스, 크로스 플랫폼이며, 개발자가 모든 종류의 서버 사이드 도구들과 어플리케이션을 JavaScript로 만들수 있도록 해주는 런타임 환경이다.
+
 언제 nodeJS를 써야 하나?(python-Djange, php-lalabel이 아닌)
 프론트개발에는 JavaScript으로만 개발할수 있음
 

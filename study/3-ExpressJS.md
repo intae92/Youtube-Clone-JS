@@ -7,6 +7,13 @@
    Node.js 웹 애플리케이션 프레임워크
    Node.js를 위한 빠르고 개방적인 간결한 웹 프레임워크
 
+   Express 는 가장 인기있는 Node 웹 프레임 워크 이며, 다른 많은 인기있는 Node web frameworks의 기본 라이브러리 입니다. Express는 다음과 같은 메커니즘을 제공합니다:
+
+   - HTTP 통신 요청(Request; GET, POST, DELETE 등)에 대한 핸들러를 만든다.
+   - 템플릿에 데이터를 넣어 응답(response)을 만들기 위해 view의 렌더링 엔진과 결합(integrate)한다.
+   - 접속을 위한 포트나 응답 렌더링을 위한 템플릿 위치같은 공통 웹 어플리케이션 세팅을 한다.
+   - 핸들링 파이프라인(reqest handling pipeline) 중 필요한 곳에 추가적인 미들웨어 처리 요청을 추가한다.
+
 3. [프레임워크 vs 라이브러리 차이점 설명해보자](https://webclub.tistory.com/458)
 
    - 프레임워크(Framework)
