@@ -74,7 +74,7 @@ package.json 파일에 "devDependencies 생성됨
 
 ```
 "scripts"{
-"start": "nodemon --exec babel-node index.js"
+"start": "nodemon --exec babel-node index.js --delay 2"
 
 }
 ```
